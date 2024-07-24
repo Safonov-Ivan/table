@@ -1,1 +1,1 @@
-(site)[https://safonov-ivan.github.io/table/]
+[site](https://safonov-ivan.github.io/table/)
